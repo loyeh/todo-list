@@ -46,6 +46,11 @@ input {
   font-size: 1em;
 }
 
+.todo.corrected {
+  color: #00000088;
+  text-decoration: line-through;
+}
+
 p {
   font-size: 0.75em;
   color: #00000088;
